@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Untitled RSS Feed]]></title><description><![CDATA[Untitled RSS Feed]]></description><link>https://kmario23.github.io/blog</link><generator>RSS for Node</generator><lastBuildDate>Thu, 29 Sep 2016 03:16:57 GMT</lastBuildDate><atom:link href="https://kmario23.github.io/blog/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[HackZurich 2016 Experience]]></title><description><![CDATA[<div class="listingblock">
+<div class="title">Some life lessons that I learned at the hackathon:</div>
+<div class="content">
+<pre>1) I should improve my capability to learn things fast.
+2) I should practice coding daily, no matter what happens.
+3) I must master the right tools and use it regularly (Vim, Zsh, Git).
+4) I must improve my programming &amp; be expert in 3 languages (C++, Python, JS)</pre>
+</div>
+</div>
+<div class="listingblock">
+<div class="title">Now, the secret sauce for winning a hack event:</div>
+<div class="content">
+<pre>1) An appealing idea which solves a (real world) problem.
+2) Good team with right mix of skills (UI, Design, Backend, Team Lead)
+3) Catchy User Interface, and good demo which works like a charm.
+4) In case of APIs, caching techniques to avoid waiting for response.</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>I&#8217;m fortunate for the HackZurich organizers for providing a nice platform<br>
+to meet like minded and passionate hackers.</p>
+</div>
+<div class="paragraph">
+<p>Overall, it was an enjoyable experience and look forward to attending it next year!</p>
+</div>]]></description><link>https://kmario23.github.io/blog/2016/09/29/Hack-Zurich-2016-Experience.html</link><guid isPermaLink="true">https://kmario23.github.io/blog/2016/09/29/Hack-Zurich-2016-Experience.html</guid><category><![CDATA[hackathon]]></category><dc:creator><![CDATA[Mario]]></dc:creator><pubDate>Thu, 29 Sep 2016 00:00:00 GMT</pubDate></item></channel></rss>
