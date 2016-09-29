@@ -1,0 +1,30 @@
+= HackZurich 2016 Experience
+
+:hardbreaks:
+:numbered:
+:hp-tags: hackathon
+
+
+.Some life lessons that I learned at the hackathon:
+----
+1) I should improve my capability to learn things fast.
+2) I should practice coding daily, no matter what happens.
+3) I must master the right tools and use it regularly (Vim, Zsh, Git).
+4) I must improve my programming & be expert in 3 languages (C++, Python, JS)
+----
+
+
+.Now, the secret sauce for winning a hack event:
+----
+1) An appealing idea which solves a (real world) problem.
+2) Good team with right mix of skills (UI, Design, Backend, Team Lead)
+3) Catchy User Interface, and good demo which works like a charm.
+4) In case of APIs, caching techniques to avoid waiting for response.
+----
+
+
+
+I'm fortunate for the HackZurich organizers for providing a nice platform
+to meet like minded and passionate hackers.
+
+Overall, it was an enjoyable experience and look forward to attending it next year!
