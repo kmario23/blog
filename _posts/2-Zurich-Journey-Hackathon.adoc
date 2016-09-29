@@ -1,7 +1,0 @@
-= Zurich Journey
-:published_at:
-:hardbreaks:
-
-The contents are as follows
-It was a nice time in Zurich with *beautiful* weather
-But it was raining when I returned from there
