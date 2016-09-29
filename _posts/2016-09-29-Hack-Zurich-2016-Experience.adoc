@@ -3,7 +3,10 @@
 :hardbreaks:
 :numbered:
 :hp-tags: hackathon
+:imagesdir: ../images
 
+.Hacking @ ETH-Technopark
+image::hackzurich16.jpg[Hackathon]
 
 .Some life lessons that I learned at the hackathon:
 ----
