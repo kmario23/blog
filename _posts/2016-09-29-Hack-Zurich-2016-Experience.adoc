@@ -3,7 +3,7 @@
 :hardbreaks:
 :numbered:
 :hp-tags: hackathon
-:imagesdir: ../images
+:imagesdir: ../../../images
 
 .Hacking @ ETH-Technopark
 image::hackzurich16.jpg[Hackathon]
